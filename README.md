@@ -1,6 +1,7 @@
-# MeredithBayneResume
+# Meredith Bayne Resume
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
+## Description
+Meredith Bayne is a full stack developer and test engineer, with expertise in Angular 4 and Selenium
 
 ## Development server
 
